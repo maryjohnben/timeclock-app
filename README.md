@@ -13,3 +13,5 @@ Full-Stack App will be able to track each employee's clock in and clock out deta
 - CSS SASS
 - CSS Bootstrap
 - HTML
+- Koa.js
+- MongoDB
