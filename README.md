@@ -7,12 +7,12 @@ Employees will be able to make changes to their own timesheet and managers will 
 
 ### Technologies used:
 - JavaScript
-- NextJS
+- NextJS (React Framework)
 - NodeJS
 - Jest
 - CSS
 - CSS SASS
 - CSS Bootstrap
 - HTML
-- Koa.js
+- Koa.js (Node Framework)
 - MongoDB
