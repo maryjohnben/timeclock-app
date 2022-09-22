@@ -4,6 +4,7 @@
 
 Full-Stack App will be able to track each employee's clock in and clock out details and there will be options to pull timesheets and make changes as needed for authorized users.
 Employees will be able to make changes to their own timesheet and managers will be able to access the data of all employees.
+The clock can be adjusted to the time zone the particular company uses.
 
 ### Technologies used:
 - JavaScript
@@ -16,3 +17,4 @@ Employees will be able to make changes to their own timesheet and managers will 
 - HTML
 - Koa.js (Node Framework)
 - MongoDB
+- considering MERN stack as well
