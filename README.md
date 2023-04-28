@@ -18,3 +18,4 @@ The clock can be adjusted to the time zone the particular company uses.
 - Koa.js (Node Framework)
 - MongoDB
 - considering MERN stack as well
+- Git
